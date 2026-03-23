@@ -1,3 +1,8 @@
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Gradio](https://img.shields.io/badge/Gradio-3.50.2-green)](https://gradio.app)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3+-orange)](https://www.langchain.com)
+
 # Multi-Agent-Research-Team
 
 **Multi-Agent-Research-Team** — это полностью автономная мультиагентная RAG-система, построенная на российской модели **Vikhr-7B-instruct** (GGUF).  
