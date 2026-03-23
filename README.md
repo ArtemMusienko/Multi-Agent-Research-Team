@@ -1,7 +1,4 @@
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-[![Gradio](https://img.shields.io/badge/Gradio-3.50.2-green)](https://gradio.app)
-[![LangChain](https://img.shields.io/badge/LangChain-0.3+-orange)](https://www.langchain.com)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Multi-Agent-Research-Team
 
