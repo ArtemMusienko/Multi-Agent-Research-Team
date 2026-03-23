@@ -2,6 +2,8 @@
 
 # Multi-Agent-Research-Team
 
+![enter image description here](https://cdn.prod.website-files.com/64009032676f24f376f002fc/668ec547def06a3e6bcf37ee_langchain_logo.webp)
+
 **Multi-Agent-Research-Team** — это полностью автономная мультиагентная RAG-система, построенная на российской модели **Vikhr-7B-instruct** (GGUF).  
 
 Система имитирует работу настоящей исследовательской команды:
